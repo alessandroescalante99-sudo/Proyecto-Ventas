@@ -1,5 +1,7 @@
 # Análisis de Ventas utilizando Python y Power BI para identificar tendencias de ventas, comportamiento de productos y desempeño comercial.
 
+![Dashboard](Dashboard_Captura.png)
+
 ## Descripción
 
 Este proyecto consiste en el desarrollo de un Dashboard de Ventas utilizando Python para el proceso ETL y Power BI para la visualización de datos.
